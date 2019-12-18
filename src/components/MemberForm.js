@@ -63,7 +63,7 @@ const MemberForm = props => {
             value={member.role}
           />
         </FormGroup>
-        <Button type="submit">Submit</Button>
+        <Button type="submit">Add Member</Button>
       </Form>
     </div>
   );
