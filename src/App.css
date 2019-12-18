@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.member-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.member {
+  background: #586268;
+  color: white;
+  width: 100%;
+  max-width: 500px;
+  padding: 2rem;
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+}
+button {
+  margin-left: 1rem;
+}
